@@ -1,0 +1,289 @@
+state,file_closing_days,file_reach_days,decide_close_days,year
+Andhra Pradesh,1000,404,0,2010
+Assam,0,0,0,2010
+Bihar,0,0,0,2010
+Chandigarh,0,0,0,2010
+Chattisgarh,0,0,0,2010
+DNH at silvasa,0,0,0,2010
+Delhi,0,0,0,2010
+Diu and daman,0,0,0,2010
+Goa,0,0,0,2010
+Gujarath,0,0,0,2010
+Haryana,0,0,0,2010
+Himachal Pradesh,0,0,0,2010
+Jammu and kashmir,0,0,0,2010
+Jharkhand,0,0,0,2010
+Karnataka,790,360,13,2010
+Kerala,0,0,0,2010
+Ladakh,0,0,0,2010
+Madhya Pradesh,0,0,0,2010
+Maharashtra,829,115,4,2010
+Manipur,0,0,0,2010
+Meghalaya,0,0,0,2010
+Mizoram,0,0,0,2010
+Orissa,0,0,0,2010
+Punjab,0,0,0,2010
+Rajasthan,0,0,0,2010
+Sikkim,0,0,0,2010
+Tamilnadu,0,0,0,2010
+Telangana,0,0,0,2010
+Tripura,0,0,0,2010
+Uttar pradesh,0,0,0,2010
+Uttarakhand,0,0,0,2010
+West Bengal,0,0,0,2010
+Andhra Pradesh,885,247,0,2011
+Assam,893,317,2,2011
+Bihar,1564,852,6,2011
+Chandigarh,834,156,35,2011
+Chattisgarh,1128,380,24,2011
+DNH at silvasa,909,102,1,2011
+Delhi,718,100,7,2011
+Diu and daman,785,88,0,2011
+Goa,484,96,20,2011
+Gujarath,914,382,4,2011
+Haryana,824,279,4,2011
+Himachal Pradesh,1013,315,3,2011
+Jammu and kashmir,978,447,0,2011
+Jharkhand,1406,596,3,2011
+Karnataka,688,170,7,2011
+Kerala,884,283,15,2011
+Ladakh,2527,2243,0,2011
+Madhya Pradesh,833,360,9,2011
+Maharashtra,763,90,2,2011
+Manipur,1187,610,1,2011
+Meghalaya,687,130,0,2011
+Mizoram,551,373,0,2011
+Orissa,1595,931,7,2011
+Punjab,891,295,2,2011
+Rajasthan,1322,559,5,2011
+Sikkim,702,423,3,2011
+Tamilnadu,1078,361,1,2011
+Telangana,953,285,1,2011
+Tripura,818,216,0,2011
+Uttar pradesh,1197,526,15,2011
+Uttarakhand,860,413,6,2011
+West Bengal,1153,606,2,2011
+Andhra Pradesh,830,191,0,2012
+Assam,752,275,2,2012
+Bihar,1238,560,7,2012
+Chandigarh,594,112,8,2012
+Chattisgarh,926,224,1,2012
+DNH at silvasa,853,44,0,2012
+Delhi,656,78,4,2012
+Diu and daman,418,45,0,2012
+Goa,433,109,15,2012
+Gujarath,728,268,3,2012
+Haryana,699,170,3,2012
+Himachal Pradesh,741,148,2,2012
+Jammu and kashmir,709,296,0,2012
+Jharkhand,992,338,2,2012
+Karnataka,556,99,4,2012
+Kerala,707,214,4,2012
+Ladakh,2271,1812,0,2012
+Madhya Pradesh,770,277,9,2012
+Maharashtra,707,63,2,2012
+Manipur,695,242,1,2012
+Meghalaya,644,66,0,2012
+Mizoram,184,94,0,2012
+Orissa,1213,571,9,2012
+Punjab,641,118,2,2012
+Rajasthan,954,283,5,2012
+Sikkim,393,140,1,2012
+Tamilnadu,927,256,1,2012
+Telangana,819,206,0,2012
+Tripura,671,168,1,2012
+Uttar pradesh,898,295,14,2012
+Uttarakhand,694,306,4,2012
+West Bengal,792,319,3,2012
+Andhra Pradesh,711,159,0,2013
+Assam,525,159,1,2013
+Bihar,823,254,7,2013
+Chandigarh,477,77,2,2013
+Chattisgarh,905,334,1,2013
+DNH at silvasa,534,26,0,2013
+Delhi,582,72,10,2013
+Diu and daman,324,24,0,2013
+Goa,382,87,13,2013
+Gujarath,482,130,3,2013
+Haryana,574,98,2,2013
+Himachal Pradesh,620,113,1,2013
+Jammu and kashmir,733,330,0,2013
+Jharkhand,768,267,2,2013
+Karnataka,395,50,5,2013
+Kerala,589,175,2,2013
+Ladakh,2001,1515,0,2013
+Madhya Pradesh,580,154,6,2013
+Maharashtra,576,51,2,2013
+Manipur,452,127,0,2013
+Meghalaya,446,65,0,2013
+Mizoram,224,117,0,2013
+Orissa,912,395,5,2013
+Punjab,521,65,1,2013
+Rajasthan,631,157,2,2013
+Sikkim,115,16,0,2013
+Tamilnadu,733,162,1,2013
+Telangana,692,165,1,2013
+Tripura,579,103,0,2013
+Uttar pradesh,713,243,10,2013
+Uttarakhand,424,88,6,2013
+West Bengal,598,230,2,2013
+Andhra Pradesh,545,114,0,2014
+Assam,475,165,0,2014
+Bihar,537,111,5,2014
+Chandigarh,373,35,0,2014
+Chattisgarh,407,91,0,2014
+DNH at silvasa,599,39,0,2014
+Delhi,521,74,9,2014
+Diu and daman,290,41,0,2014
+Goa,329,86,6,2014
+Gujarath,338,61,2,2014
+Haryana,422,52,1,2014
+Himachal Pradesh,466,76,0,2014
+Jammu and kashmir,655,322,0,2014
+Jharkhand,502,134,2,2014
+Karnataka,309,35,4,2014
+Kerala,456,122,1,2014
+Ladakh,1457,1102,0,2014
+Madhya Pradesh,430,91,5,2014
+Maharashtra,484,43,1,2014
+Manipur,162,26,0,2014
+Meghalaya,223,27,0,2014
+Mizoram,481,270,0,2014
+Orissa,712,302,4,2014
+Punjab,409,32,0,2014
+Rajasthan,525,124,1,2014
+Sikkim,106,13,0,2014
+Tamilnadu,539,104,1,2014
+Telangana,581,146,1,2014
+Tripura,525,71,0,2014
+Uttar pradesh,521,165,7,2014
+Uttarakhand,335,66,6,2014
+West Bengal,575,211,1,2014
+Andhra Pradesh,457,91,0,2015
+Assam,381,113,0,2015
+Bihar,375,61,3,2015
+Chandigarh,343,14,0,2015
+Chattisgarh,303,55,0,2015
+DNH at silvasa,459,38,0,2015
+Delhi,469,67,1,2015
+Diu and daman,215,22,0,2015
+Goa,340,93,2,2015
+Gujarath,289,34,1,2015
+Haryana,332,37,1,2015
+Himachal Pradesh,314,50,0,2015
+Jammu and kashmir,395,180,0,2015
+Jharkhand,358,57,2,2015
+Karnataka,257,28,3,2015
+Kerala,377,95,1,2015
+Ladakh,1116,757,0,2015
+Madhya Pradesh,363,71,5,2015
+Maharashtra,379,31,1,2015
+Manipur,146,16,0,2015
+Meghalaya,168,15,0,2015
+Mizoram,436,218,0,2015
+Orissa,465,180,4,2015
+Punjab,343,17,0,2015
+Rajasthan,435,83,1,2015
+Sikkim,116,10,0,2015
+Tamilnadu,427,73,1,2015
+Telangana,500,122,1,2015
+Tripura,430,48,1,2015
+Uttar pradesh,363,80,9,2015
+Uttarakhand,342,46,4,2015
+West Bengal,459,136,2,2015
+Andhra Pradesh,352,82,0,2016
+Assam,288,88,0,2016
+Bihar,254,41,3,2016
+Chandigarh,314,7,0,2016
+Chattisgarh,211,32,0,2016
+DNH at silvasa,427,19,0,2016
+Delhi,315,42,0,2016
+Diu and daman,160,21,0,2016
+Goa,218,47,0,2016
+Gujarath,194,26,1,2016
+Haryana,237,28,0,2016
+Himachal Pradesh,241,43,0,2016
+Jammu and kashmir,355,163,0,2016
+Jharkhand,257,43,2,2016
+Karnataka,194,25,3,2016
+Kerala,286,85,1,2016
+Ladakh,624,354,3,2016
+Madhya Pradesh,234,43,2,2016
+Maharashtra,270,24,0,2016
+Manipur,117,10,0,2016
+Meghalaya,123,7,0,2016
+Mizoram,454,249,0,2016
+Orissa,276,89,3,2016
+Punjab,268,10,0,2016
+Rajasthan,318,72,1,2016
+Sikkim,94,8,0,2016
+Tamilnadu,279,53,1,2016
+Telangana,355,105,1,2016
+Tripura,320,28,0,2016
+Uttar pradesh,246,58,7,2016
+Uttarakhand,256,37,1,2016
+West Bengal,335,81,1,2016
+Andhra Pradesh,213,58,0,2017
+Assam,158,42,0,2017
+Bihar,173,30,5,2017
+Chandigarh,232,2,0,2017
+Chattisgarh,127,18,0,2017
+DNH at silvasa,299,13,0,2017
+Delhi,196,19,0,2017
+Diu and daman,136,14,0,2017
+Goa,121,19,0,2017
+Gujarath,147,24,0,2017
+Haryana,176,21,0,2017
+Himachal Pradesh,144,30,0,2017
+Jammu and kashmir,203,74,0,2017
+Jharkhand,138,22,1,2017
+Karnataka,135,22,3,2017
+Kerala,218,68,0,2017
+Ladakh,323,63,0,2017
+Madhya Pradesh,133,22,0,2017
+Maharashtra,173,21,0,2017
+Manipur,79,10,0,2017
+Meghalaya,75,2,0,2017
+Mizoram,168,74,0,2017
+Orissa,196,48,2,2017
+Punjab,164,10,0,2017
+Rajasthan,143,30,1,2017
+Sikkim,86,8,0,2017
+Tamilnadu,164,35,1,2017
+Telangana,225,82,0,2017
+Tripura,243,33,0,2017
+Uttar pradesh,132,35,2,2017
+Uttarakhand,172,36,0,2017
+West Bengal,209,42,1,2017
+Andhra Pradesh,103,37,0,2018
+Assam,85,25,0,2018
+Bihar,71,15,3,2018
+Chandigarh,204,2,0,2018
+Chattisgarh,48,9,0,2018
+DNH at silvasa,176,20,0,2018
+Delhi,108,10,0,2018
+Diu and daman,82,11,0,2018
+Goa,56,13,0,2018
+Gujarath,112,21,0,2018
+Haryana,97,18,0,2018
+Himachal Pradesh,51,16,0,2018
+Jammu and kashmir,80,26,0,2018
+Jharkhand,36,5,0,2018
+Karnataka,74,15,3,2018
+Kerala,161,55,1,2018
+Ladakh,145,19,0,2018
+Madhya Pradesh,45,9,0,2018
+Maharashtra,83,13,0,2018
+Manipur,46,8,0,2018
+Meghalaya,54,2,0,2018
+Mizoram,137,72,0,2018
+Orissa,90,32,1,2018
+Punjab,92,6,0,2018
+Rajasthan,66,20,0,2018
+Sikkim,46,5,0,2018
+Tamilnadu,66,17,1,2018
+Telangana,97,45,0,2018
+Tripura,151,41,0,2018
+Uttar pradesh,69,21,2,2018
+Uttarakhand,93,31,0,2018
+West Bengal,92,17,1,2018

@@ -1,0 +1,33 @@
+year,state,dismissed_count,prison_count,withdrawal_count,avg_decision_end_per1lakhcases,avg_fileend_per1lakhcases,avg_filecourt_per1lakhcases,pendingcases_count,pending_casesperlakh,criminal_count,criminal_perlakh,noncriminal_count,noncriminal_perlakh
+2010,Andhra Pradesh,27690,0,1332,0,888,353,200,0.002,88892,0.88892,46002,0.46002
+2010,Assam,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Bihar,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Chandigarh,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Chattisgarh,0,0,0,0,0,0,0,0,0,0,0,0
+2010,DNH at silvasa,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Delhi,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Diu and daman,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Goa,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Gujarath,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Haryana,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Himachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Jammu and kashmir,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Jharkhand,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Karnataka,11151,0,626,26,1580,751,8083,0.08083,56115,0.56115,38972,0.38972
+2010,Kerala,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Ladakh,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Madhya Pradesh,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Maharashtra,58186,0,17934,0,118,14,25128,0.25128,597298,5.97298,428038,4.28038
+2010,Manipur,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Mizoram,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Orissa,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Punjab,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Rajasthan,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Tamilnadu,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Telangana,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Tripura,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Uttar pradesh,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Uttarakhand,0,0,0,0,0,0,0,0,0,0,0,0
+2010,West Bengal,0,0,0,0,0,0,0,0,0,0,0,0
