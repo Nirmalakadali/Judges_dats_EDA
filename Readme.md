@@ -54,13 +54,13 @@ To classify the cases and obtain a desirable accuracy, it is important that we c
 The data is split into training and testing sets, and classification is performed using the following models:
 
 - Logistic Regression
-  Accuracy obtained: `0.83`
+  Accuracy obtained: `0.969`
 
 - Naive Bayes
-  Accuracy obtained: `0.85`
+  Accuracy obtained: `0.729`
 
 - KNN
-  Accuracy obtained: `0.97`
+  Accuracy obtained: `0.889`
 
 - Decision Tree
   Accuracy obtained: `1.00`
@@ -71,6 +71,7 @@ The data is split into training and testing sets, and classification is performe
 The best classifiers from the above are Decision Tree and Random Forest.
 
 An ROC curve is plotted for the best classifier to check the performance of the model.
+![image](https://github.com/Nirmalakadali/Judges_dats_EDA/assets/99960001/c07f4d0f-66e4-4cad-b29b-4c614d0e09dc)
 
 <br/>
 <blockquote>
